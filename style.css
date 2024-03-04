@@ -129,7 +129,7 @@
   }
 
  a:active {
-    color: #FA5456;
+    color: #FDD219;
     transition: color 0.3s
  }
 
@@ -148,4 +148,3 @@
     transform: translateY(-4px);
  }
 
- 
